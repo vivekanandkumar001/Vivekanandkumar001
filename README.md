@@ -1,4 +1,4 @@
-# 💫 About Me:
+[[[# 💫 About Me:
 I am an AI & Data Science Engineer passionate about bridging the gap between raw data and intelligent products. From architecting Llama-3 powered recruitment SaaS to engineering real-time Computer Vision pipelines, I focus on building high-performance, local-first AI solutions. I currently maintain a 7.2 CGPA while managing end-to-end projects that prioritize data privacy and real-time inference.
 
 
@@ -25,3 +25,4 @@ I am an AI & Data Science Engineer passionate about bridging the gap between raw
 [![](https://visitcount.itsvg.in/api?id=Vivekanandkumar001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://github.com/vivekanandkumar001)](https://github.com/vivekanandkumar001)](https://github.com/vivekanandkumar001)https://github.com/vivekanandkumar001
