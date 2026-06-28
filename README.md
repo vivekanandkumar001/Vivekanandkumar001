@@ -49,11 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekanandkumar001&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivekanandkumar001&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
